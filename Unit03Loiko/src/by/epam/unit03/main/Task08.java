@@ -40,5 +40,5 @@ public class Task08 {
             String output = (Double.isNaN(z)) ? "На ноль делить нельзя!" : "Результат операции: "+z;
             System.out.println(output);
         }
-    }
+    }// Молодец. Зачтено
 }
